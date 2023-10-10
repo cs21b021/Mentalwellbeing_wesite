@@ -1,14 +1,9 @@
 # Mentalwellbeing_website
 
-
-
-
 Emotional Analysis:
 
-•	In the main content area, perform "Emotional Analysis using Text" or "Emotional Analysis using Social Media" by providing relevant content.
+•Text can be provided in "Emotional Analysis using Text" or "Emotional Analysis using Social Media" which on clicking emotional analysis gives result on the emotions.
 
-•	Click the "Emotional Analysis" button to receive insights.
-Emotional analysis is done using NLP known as transformer .
+•Emotional analysis is done using NLP known as transformer .
 
-pip install transformers -q
-
+ https://docs.google.com/document/d/1Hsv7rK3xSzD0zvrU4cwpUkolIWX5xXFHIY3SMISCNuM/edit?usp=sharing
